@@ -1,0 +1,103 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+
+     h2{
+color: red;
+    }
+ 
+ #background 
+{   
+	 width: 1000px;
+	 margin: 0 auto;
+	 padding: 0;
+	 overflow: auto;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 2667px;
+	 height: 2665px;
+	 z-index:1;
+} 
+
+ #TimeDetails 
+{ 
+	 left: 62px; 
+	 top: 1538px; 
+	 position: absolute; 
+	 width: 2506px;
+	 height: 1092px;
+	 z-index:2;
+} 
+
+ #Operation 
+{ 
+	 left: 1339px; 
+	 top: 510px; 
+	 position: absolute; 
+	 width: 1224px;
+	 height: 1032px;
+	 z-index:3;
+} 
+
+ #Service 
+{ 
+	 left: 64px; 
+	 top: 511px; 
+	 position: absolute; 
+	 width: 1276px;
+	 height: 1028px;
+	 z-index:4;
+} 
+
+ #containerLeft 
+{ 
+	 width: 250px;
+	 padding: 0;
+	 margin: 0;
+	 display: block;
+	 position: fixed;
+}
+
+ #containerRight 
+{ 
+	 width: 750px;
+	 display: block;
+	 float: left;
+} 
+
+ #Menu 
+{ 
+	 left: 63px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 2500px;
+	 height: 121px;
+	 z-index:5;
+} 
+
+
+ #Breadcrumbs 
+{ 
+	 left: 66px; 
+	 top: 299px; 
+	 position: absolute; 
+	 width: 2499px;
+	 height: 96px;
+	 z-index:6;
+} 
+
+ #Logo 
+{ 
+	 left: 66px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 632px;
+	 height: 239px;
+	 z-index:7;
+} 
